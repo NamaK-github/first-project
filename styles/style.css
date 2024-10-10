@@ -1,1 +1,48 @@
-/* место для вашего кода */
+.header {
+    height: 293px;;
+    padding: 92px 24px 96px;
+    display: flex;
+    flex-direction: row;
+    /* display: grid; */
+
+}
+
+.jambotron {
+
+}
+
+.lots {
+    margin: 179px 24px 146px;
+}
+
+.about {
+
+}
+
+.footer {
+    margin: 180px 50px 88px;
+}
+
+.header_logo {
+    height: 105px;
+}
+
+.header_menu_list {
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: circle;
+}
+
+.header_menu_item {
+    text-decoration: underline;
+}
+
+.header_menu_item_active {
+    text-decoration: none;
+}
+
+.header_menu_separator {
+
+}
